@@ -1,0 +1,21 @@
+div{
+    margin:0;
+    padding: 0;
+    width: 100%; 
+}
+
+.container{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    /* display:flex; */
+}
+
+.zoom{
+    width: 100%;
+    position:sticky;
+    top:0;
+    left:50%;
+    /* transform: translate(-50%);   */
+}
+
